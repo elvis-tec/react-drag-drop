@@ -1,4 +1,4 @@
-# Calendar App Frontend
+# React Drag and Drop
 
 # Getting Started with React DnD
 
